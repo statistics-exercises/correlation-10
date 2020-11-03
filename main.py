@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-xdata, ydata = 100*[0], 100*[0]
+xdata, ydata = np.zeros(100), np.zeros(100)
 # Your code goes here
 
 
